@@ -1,4 +1,4 @@
-[gd_scene load_steps=11 format=3 uid="uid://cxpry3qpkc161"]
+[gd_scene load_steps=12 format=3 uid="uid://cxpry3qpkc161"]
 
 [ext_resource type="PackedScene" uid="uid://d3bjo45ov3bxy" path="res://character_body_2d.tscn" id="1_n2cep"]
 [ext_resource type="Texture2D" uid="uid://cua2vx2opsgtw" path="res://Sprites/gren.png" id="2_aoyta"]
@@ -7,6 +7,7 @@
 [ext_resource type="Texture2D" uid="uid://xtwb3llw0kg2" path="res://Sprites/leaf platform.png" id="5_2bfq4"]
 [ext_resource type="Texture2D" uid="uid://bcydu0rod65ri" path="res://Sprites/tree.png" id="6_b1twm"]
 [ext_resource type="Texture2D" uid="uid://s0bnh6vmsxlc" path="res://Sprites/Treelog.png" id="7_8g06u"]
+[ext_resource type="Texture2D" uid="uid://je1shcip53p5" path="res://Sprites/711sUcs3g1L._AC_UF894,1000_QL80_.jpg" id="8_dh7xd"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_r5c80"]
 albedo_texture = ExtResource("2_aoyta")
@@ -58,3 +59,7 @@ texture = ExtResource("6_b1twm")
 [node name="Treelog" type="Sprite2D" parent="."]
 position = Vector2(367, 365)
 texture = ExtResource("7_8g06u")
+
+[node name="711sUcs3g1l_AcUf894,1000Ql80" type="Sprite2D" parent="."]
+position = Vector2(826, -106)
+texture = ExtResource("8_dh7xd")
