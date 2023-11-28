@@ -3,8 +3,8 @@
 [ext_resource type="Script" path="res://CharacterBody2D.gd" id="1_w0q3o"]
 [ext_resource type="Texture2D" uid="uid://dh7l37rf4kc6b" path="res://Sprites/littlelad.png" id="2_t3o51"]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_ubwxa"]
-size = Vector2(101, 96)
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_tfbbl"]
+size = Vector2(117, 88)
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_4drv5"]
 animations = [{
@@ -18,20 +18,16 @@ animations = [{
 }]
 
 [node name="CharacterBody2D" type="CharacterBody2D"]
-scale = Vector2(0.5, 0.5)
 script = ExtResource("1_w0q3o")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(-4, 33)
-shape = SubResource("RectangleShape2D_ubwxa")
+position = Vector2(0, 36)
+shape = SubResource("RectangleShape2D_tfbbl")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 z_index = 1
 sprite_frames = SubResource("SpriteFrames_4drv5")
 
 [node name="Camera2D" type="Camera2D" parent="."]
-position = Vector2(0, -220)
-offset = Vector2(0, 89.08)
-zoom = Vector2(1.455, 1.455)
-position_smoothing_enabled = true
-position_smoothing_speed = 4.0
+ignore_rotation = false
+zoom = Vector2(1.5, 1.5)
