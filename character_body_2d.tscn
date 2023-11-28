@@ -35,3 +35,13 @@ offset = Vector2(0, 89.08)
 zoom = Vector2(1.455, 1.455)
 position_smoothing_enabled = true
 position_smoothing_speed = 4.0
+
+[node name="Area2D" type="Area2D" parent="."]
+collision_layer = 2
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(-4, 33)
+shape = SubResource("RectangleShape2D_ubwxa")
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
