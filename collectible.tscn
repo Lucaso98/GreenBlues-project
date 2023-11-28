@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cipy1rk0lbdm4"]
+
+[ext_resource type="Texture2D" uid="uid://d1uurot47mnfw" path="res://Sprites/Frukt.png" id="1_46hjg"]
+
+[node name="collison" type="CollisionShape2D"]
+
+[node name="Frukt" type="Sprite2D" parent="."]
+position = Vector2(1, -5)
+texture = ExtResource("1_46hjg")
