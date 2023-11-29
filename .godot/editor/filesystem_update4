@@ -1,5 +1,3 @@
-res://collectible.tscn
-res://collectible.gd
-res://CharacterBody2D.gd
-res://character_body_2d.tscn
 res://2DGreenBlues.tscn
+res://character_body_2d.tscn
+res://collectible.tscn
