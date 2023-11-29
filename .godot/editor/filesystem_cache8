@@ -1,21 +1,22 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1701165132
-2DGreenBlues.tscn::PackedScene::6419226981368270128::1701165038::0::1::::<><>::uid://d3bjo45ov3bxy::::res://character_body_2d.tscn<>uid://cua2vx2opsgtw::::res://Sprites/gren.png<>uid://c4yd3tu2ag64f::::res://Sprites/swamp_copy.png<>uid://buqqekxxg1uot::::res://Sprites/leaf ground plat.png<>uid://xtwb3llw0kg2::::res://Sprites/leaf platform.png<>uid://bcydu0rod65ri::::res://Sprites/tree.png<>uid://s0bnh6vmsxlc::::res://Sprites/Treelog.png
-CharacterBody2D.gd::GDScript::-1::1701165038::0::1::::<>CharacterBody2D<>::
-character_body_2d.tscn::PackedScene::9127187074934384538::1701165038::0::1::::<><>::res://CharacterBody2D.gd<>uid://dh7l37rf4kc6b::::res://Sprites/littlelad.png
-collectible.tscn::PackedScene::5366822330764905369::1701165038::0::1::::<><>::uid://d1uurot47mnfw::::res://Sprites/Frukt.png
-icon.svg::CompressedTexture2D::2339764841665751191::1701165038::1701165132::1::::<><>::
-::res://Sprites/::1701165038
-711sUcs3g1L._AC_UF894,1000_QL80_.jpg::CompressedTexture2D::641568260998547052::1701165038::1701165038::1::::<><>::
-eldfluga.png::CompressedTexture2D::6659963775729017716::1701165038::1701165038::1::::<><>::
-Frukt.png::CompressedTexture2D::9026705005140116020::1701165038::1701165038::1::::<><>::
-gren.png::CompressedTexture2D::6178296351027175732::1701165038::1701165038::1::::<><>::
-Inspo Player.png::CompressedTexture2D::3389880451865401179::1701165038::1701165038::1::::<><>::
-Inspo Stuff.png::CompressedTexture2D::7023061563499886762::1701165038::1701165038::1::::<><>::
-leaf ground plat.png::CompressedTexture2D::3824206777396669455::1701165038::1701165038::1::::<><>::
-leaf platform.png::CompressedTexture2D::1654905628813483735::1701165038::1701165038::1::::<><>::
-littlelad.png::CompressedTexture2D::7717363641100417831::1701165038::1701165038::1::::<><>::
-littleladTiny.png::CompressedTexture2D::9003732368873654155::1701165038::1701165038::1::::<><>::
-swamp_copy.png::CompressedTexture2D::6858096082260982507::1701165038::1701165038::1::::<><>::
-tree.png::CompressedTexture2D::2576562643909785066::1701165038::1701165038::1::::<><>::
-Treelog.png::CompressedTexture2D::1315092978172909700::1701165038::1701165038::1::::<><>::
+::res://::1701246526
+2DGreenBlues.tscn::PackedScene::6419226981368270128::1701246366::0::1::::<><>::uid://d3bjo45ov3bxy::::res://character_body_2d.tscn<>uid://cua2vx2opsgtw::::res://Sprites/gren.png<>uid://c4yd3tu2ag64f::::res://Sprites/swamp_copy.png<>uid://buqqekxxg1uot::::res://Sprites/leaf ground plat.png<>uid://xtwb3llw0kg2::::res://Sprites/leaf platform.png<>uid://bcydu0rod65ri::::res://Sprites/tree.png<>uid://s0bnh6vmsxlc::::res://Sprites/Treelog.png
+CharacterBody2D.gd::GDScript::-1::1701246366::0::1::::<>CharacterBody2D<>::
+character_body_2d.tscn::PackedScene::9127187074934384538::1701246366::0::1::::<><>::res://CharacterBody2D.gd<>uid://dh7l37rf4kc6b::::res://Sprites/littlelad.png
+collectible.gd::GDScript::-1::1701246366::0::1::::<>StaticBody2D<>::
+collectible.tscn::PackedScene::5366822330764905369::1701246366::0::1::::<><>::uid://d1uurot47mnfw::::res://Sprites/Frukt.png<>res://collectible.gd
+icon.svg::CompressedTexture2D::2339764841665751191::1701246366::1701246366::1::::<><>::
+::res://Sprites/::1701246366
+711sUcs3g1L._AC_UF894,1000_QL80_.jpg::CompressedTexture2D::641568260998547052::1701246366::1701246366::1::::<><>::
+eldfluga.png::CompressedTexture2D::6659963775729017716::1701246366::1701246366::1::::<><>::
+Frukt.png::CompressedTexture2D::9026705005140116020::1701246366::1701246366::1::::<><>::
+gren.png::CompressedTexture2D::6178296351027175732::1701246366::1701246366::1::::<><>::
+Inspo Player.png::CompressedTexture2D::3389880451865401179::1701246366::1701246366::1::::<><>::
+Inspo Stuff.png::CompressedTexture2D::7023061563499886762::1701246366::1701246366::1::::<><>::
+leaf ground plat.png::CompressedTexture2D::3824206777396669455::1701246366::1701246366::1::::<><>::
+leaf platform.png::CompressedTexture2D::1654905628813483735::1701246366::1701246366::1::::<><>::
+littlelad.png::CompressedTexture2D::7717363641100417831::1701246366::1701246366::1::::<><>::
+littleladTiny.png::CompressedTexture2D::9003732368873654155::1701246366::1701246366::1::::<><>::
+swamp_copy.png::CompressedTexture2D::6858096082260982507::1701246366::1701246366::1::::<><>::
+tree.png::CompressedTexture2D::2576562643909785066::1701246366::1701246366::1::::<><>::
+Treelog.png::CompressedTexture2D::1315092978172909700::1701246366::1701246366::1::::<><>::

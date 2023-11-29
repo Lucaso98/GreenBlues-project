@@ -32,7 +32,7 @@ sprite_frames = SubResource("SpriteFrames_4drv5")
 [node name="Camera2D" type="Camera2D" parent="."]
 position = Vector2(0, -220)
 offset = Vector2(0, 89.08)
-zoom = Vector2(1.455, 1.455)
+zoom = Vector2(3, 3)
 position_smoothing_enabled = true
 position_smoothing_speed = 4.0
 
